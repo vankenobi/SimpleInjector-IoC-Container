@@ -1,0 +1,30 @@
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.exe
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.deps.json
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.runtimeconfig.json
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.runtimeconfig.dev.json
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.dll
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.pdb
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.csproj.AssemblyReference.cache
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.AssemblyInfoInputs.cache
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.AssemblyInfo.cs
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.csproj.CoreCompileInputs.cache
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.csproj.CopyComplete
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.dll
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.pdb
+C:\Users\Musa.Kucuk\source\repos\Learning\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.genruntimeconfig.cache
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.exe
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.deps.json
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.runtimeconfig.json
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.runtimeconfig.dev.json
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.dll
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\bin\Debug\netcoreapp3.1\IoC Container.pdb
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.csproj.AssemblyReference.cache
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.AssemblyInfoInputs.cache
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.AssemblyInfo.cs
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.csproj.CopyComplete
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.dll
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.pdb
+C:\Users\musak\Desktop\Learning - Kopya\IoC Container\obj\Debug\netcoreapp3.1\IoC Container.genruntimeconfig.cache
