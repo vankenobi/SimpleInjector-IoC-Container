@@ -274,11 +274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musak\\Desktop\\Learning - Kopya\\IoC Container\\IoC Container.csproj",
+      "projectUniqueName": "C:\\Users\\musak\\Desktop\\IoC Container(SimpleInjector)\\IoC Container\\IoC Container.csproj",
       "projectName": "IoC Container",
-      "projectPath": "C:\\Users\\musak\\Desktop\\Learning - Kopya\\IoC Container\\IoC Container.csproj",
+      "projectPath": "C:\\Users\\musak\\Desktop\\IoC Container(SimpleInjector)\\IoC Container\\IoC Container.csproj",
       "packagesPath": "C:\\Users\\musak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musak\\Desktop\\Learning - Kopya\\IoC Container\\obj\\",
+      "outputPath": "C:\\Users\\musak\\Desktop\\IoC Container(SimpleInjector)\\IoC Container\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\musak\\AppData\\Roaming\\NuGet\\NuGet.Config",
